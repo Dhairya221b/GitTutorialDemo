@@ -11,5 +11,6 @@ wqe
 
 i want to go to commit 2 and want to get the sanp shot.
 
+this is the change for skipping the staging process.
 
 i dont want to change the file.`
