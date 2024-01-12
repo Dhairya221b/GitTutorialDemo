@@ -1,0 +1,15 @@
+hello world
+randome lines for example
+for making the code more relaibale and optimize 
+for better understanid of sed command 
+and for specialization of sed command 
+wewqe
+wew
+qeqw
+e
+wqe
+
+i want to go to commit 2 and want to get the sanp shot.
+
+
+i dont want to change the file.`
