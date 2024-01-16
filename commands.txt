@@ -1,0 +1,4 @@
+grep
+nano 
+ls 
+l
